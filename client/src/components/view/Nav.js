@@ -175,7 +175,7 @@ const Nav = () => (
     </Menu>
     <Github>
       <a
-        href="https://github.com/iamvishal345/spotify-profile"
+        href="https://github.com/iamvishal345/my-spotify"
         target="_blank"
         rel="noopener noreferrer"
       >
